@@ -9,5 +9,5 @@
 - 🐍 Python scripts for file organization and data processing  
 - 📊 QA test cases and automation samples  
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/tu-usuario/) 
+📫 Connect with me: [LinkedIn](www.linkedin.com/in/luis-cabral06) 
 
