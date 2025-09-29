@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Luis Cabral  
 
-<!--
-**LuisCabralS/LuisCabralS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Support & Software Developer | QA & Automation | Python & Batch Scripts  
 
-Here are some ideas to get you started:
+🌱 Currently improving my skills in QA Automation and Data Management.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Projects:  
+- 🔧 Windows Batch scripts for automation  
+- 🐍 Python scripts for file organization and data processing  
+- 📊 QA test cases and automation samples  
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/tu-usuario/) 
+
